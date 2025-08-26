@@ -10,7 +10,7 @@ Hello! I'm Savan, a passionate developer with a love for coding and problem-solv
 - 🌱 Learning **DSA & Full-Stack Development**  
 - 💻 Check out my projects: [github.com/SavanH1301](https://github.com/SavanH1301)
 - 📫 How to reach me: prajapatisavan76p@gmail.com
-- ⚡ Fun fact: **Always exploring something new!**
+- ⚡ Fun fact: **Always exploring new places and travelling is my hobby!**
 
 ---
 
