@@ -1,5 +1,3 @@
-SavanH1301/SavanH1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there,  I'm Savan!👋
 
 Tech enthusiast | **B.Tech in Mathematics and Computing @ Dhirubhai Ambani University** | Passionate about problem-solving, DSA, and development 🚀 
