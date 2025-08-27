@@ -1,4 +1,6 @@
-# Hi there,  I'm Savan!👋
+# Hi there,  I'm Savan!👋 
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/SavanH1301)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/SavanH1301)
 
 Tech enthusiast | **B.Tech in Mathematics and Computing @ Dhirubhai Ambani University** | Passionate about problem-solving, DSA, and development 🚀 
 ---
@@ -29,8 +31,4 @@ Hello! I'm Savan, a passionate developer with a love for coding and problem-solv
 ### 📊 GitHub Stats:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychovatiya307&layout=compact&theme=radical)
 
----
-
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username)
 
