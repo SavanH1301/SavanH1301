@@ -1,6 +1,5 @@
 # Hi there,  I'm Savan!👋 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/SavanH1301)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/SavanH1301)
 
 Tech enthusiast | **B.Tech in Mathematics and Computing @ Dhirubhai Ambani University** | Passionate about problem-solving, DSA, and development 🚀 
 ---
